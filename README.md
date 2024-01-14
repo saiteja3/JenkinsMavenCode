@@ -1,4 +1,4 @@
-##updated second commit & tag
+## second commit & tag
 
 Addressbook Tutorial
 ====================
